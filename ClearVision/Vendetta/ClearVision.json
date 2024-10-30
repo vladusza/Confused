@@ -512,7 +512,8 @@
         "WHITE_500": "#dcddde",
         "YELLOW_300": "#2780E6",
 	"PLUM_20": "#111423",
-	"PLUM_16": "#111533"
+	"PLUM_16": "#111533",
+	"PLUM_22": "#0f1428"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/main/ClearVision/Vendetta/eOIFmqY.jpeg",

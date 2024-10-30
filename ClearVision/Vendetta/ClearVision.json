@@ -8,6 +8,11 @@
       }
     ],
     "semanticColors": {
+	"ANDROID_RIPPLE": [
+	    "#4397f7",
+	    "#4397f7",
+	    "#4397f7"
+	],
         "ACTIVITY_CARD_BACKGROUND": [
             "#fb4934",
             "#9d0006",
